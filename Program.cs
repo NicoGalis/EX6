@@ -8,6 +8,7 @@ class Program
         System.Console.WriteLine(Holiii);
         System.Console.WriteLine("hola");
         System.Console.WriteLine("canvi dos");
+        System.Console.WriteLine("canvi per fer servir com a excusa per fer un commit 4");
         Console.Write("Introdueix un valor enter: ");
         if (int.TryParse(Console.ReadLine(), out int limit))
         {

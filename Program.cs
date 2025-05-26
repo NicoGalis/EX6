@@ -5,7 +5,8 @@ class Program
 {
     static void Main()
     {
-        System.Console.WriteLine(Holiii);
+        
+        System.Console.WriteLine("canvi desde el github");
         System.Console.WriteLine("hola");
         System.Console.WriteLine("canvi dos");
         System.Console.WriteLine("canvi per fer servir com a excusa per fer un commit 4");

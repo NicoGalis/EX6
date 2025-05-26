@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
         System.Console.WriteLine("hola");
+        System.Console.WriteLine("canvi dos");
         Console.Write("Introdueix un valor enter: ");
         if (int.TryParse(Console.ReadLine(), out int limit))
         {
